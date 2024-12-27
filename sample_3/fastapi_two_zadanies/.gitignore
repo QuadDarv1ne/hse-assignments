@@ -1,0 +1,49 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Папки для зависимостей
+/venv/
+/__pycache__/
+
+# Логи
+*.log
+
+# Папки сборки и временные файлы
+/dist/
+/build/
+/out/
+/*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# SQLite база данных
+*.db
+
+# Папки IDE
+.idea/
+/.vscode/
+
+# Docker
+.docker/
+*.docker
+
+# Папки тестирования
+test.db
+
+# Системные файлы macOS, Windows, Linux
+*~
+*.swp
+*.swo
+
+# Удаляем сгенерированные файлы Docker (которые не должны попасть в репозиторий)
+Dockerfile*
+docker-compose.yml*
+
+# Конфигурации
+.env
+
+# Прочее
+*.log
