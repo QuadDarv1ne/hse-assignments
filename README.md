@@ -13,10 +13,9 @@
 
 - `sample_1/` — Микросервис для хранения и обновления информации о собаках
 - `sample_2/` — Задачи по практике работы с Git
-- `sample_3/` — задания для 3-го курса
-- - 1
-- - 2
-- - 3
+- `sample_3/` — Проекты FastAPI: TODO API и URL Shortener
+- - `URL Shortener API`
+- - `TODO API с FastAPI и SQLite`
 - `sample_4/` — задания для 4s-го курса
 - - 1
 - - 2
