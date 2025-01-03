@@ -47,7 +47,7 @@
 
 Оба задания (решения) находятся в файле `main.cpp`
 
-<img src="DupleyMI-round-corners-round-corners.png" alt="Dupley Maxim Igorevich" width="280" height="280">
+<img src="DupleyMI.png" alt="Dupley Maxim Igorevich" width="280" height="280">
 
 **Автор:** Дуплей Максим Игоревич
 
